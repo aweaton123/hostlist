@@ -1,9 +1,11 @@
 # zscaler hosts file 20-Apr-22
 # ===============================================================
 0.0.0.0 pac.zscloud.net
+0.0.0.0 pac.zscaler.net
 0.0.0.0 api.config.zscaler.com
 0.0.0.0 gateway.zscloud.net
 0.0.0.0 mobile.zscloud.net
+0.0.0.0 mobile.zscaler.net
 # ===============================================================
 # Source: https://config.zscaler.com/zscaler.net/cenr
 # ===============================================================
