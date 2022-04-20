@@ -1,7 +1,14 @@
 # zscaler hosts file 20-Apr-22
+# ===============================================================
+0.0.0.0 pac.zscloud.net
+0.0.0.0 api.config.zscaler.com
+0.0.0.0 gateway.zscloud.net
+0.0.0.0 mobile.zscloud.net
+# ===============================================================
 # Source: https://config.zscaler.com/zscaler.net/cenr
 # ===============================================================
 # EMEA
+# ===============================================================
 0.0.0.0 ams2-2.sme.zscaler.net
 0.0.0.0 ams2.sme.zscaler.net
 0.0.0.0 bru2.sme.zscaler.net
@@ -30,7 +37,9 @@
 0.0.0.0 vie1.sme.zscaler.net
 0.0.0.0 waw2.sme.zscaler.net
 0.0.0.0 zrh1-2.sme.zscaler.net
+# ===============================================================
 # Americas
+# ===============================================================
 0.0.0.0 atl2.sme.zscaler.net
 0.0.0.0 bos1.sme.zscaler.net
 0.0.0.0 chi1.sme.zscaler.net
@@ -54,7 +63,9 @@
 0.0.0.0 yvr1.sme.zscaler.net
 0.0.0.0 was1.sme.zscaler.net
 0.0.0.0 was1-2.sme.zscaler.net
+# ===============================================================
 # APAC
+# ===============================================================
 0.0.0.0 akl1.sme.zscaler.net
 0.0.0.0 bjs1.sme.zscaler.net
 0.0.0.0 maa1.sme.zscaler.net
