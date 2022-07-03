@@ -9,6 +9,8 @@
 ## Wireguard ##
 0.0.0.0 download.wireguard.com
 0.0.0.0 wireguard.com
+## Torguard ##
+0.0.0.0 torguard.net
 ## COD Warzone ##
 # 0.0.0.0 prod-data.energon.activision.com
 # 0.0.0.0 level3.blizzard.com
