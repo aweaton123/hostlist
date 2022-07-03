@@ -6,6 +6,9 @@
 0.0.0.0 hawaii-2.nolagvpn.com
 0.0.0.0 le-cap-dedicated.nolagvpn.com
 0.0.0.0 india-dedicated.nolagvpn.com
+## Wireguard ##
+0.0.0.0 download.wireguard.com
+0.0.0.0 wireguard.com
 ## COD Warzone ##
 # 0.0.0.0 prod-data.energon.activision.com
 # 0.0.0.0 level3.blizzard.com
