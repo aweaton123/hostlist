@@ -1,3 +1,4 @@
+## Nolag VPN ##
 0.0.0.0 app.nolagvpn.com
 0.0.0.0 nolagvpn.com
 0.0.0.0 www.nolagvpns.com
@@ -5,3 +6,19 @@
 0.0.0.0 hawaii-2.nolagvpn.com
 0.0.0.0 le-cap-dedicated.nolagvpn.com
 0.0.0.0 india-dedicated.nolagvpn.com
+## COD Warzone ##
+# 0.0.0.0 prod-data.energon.activision.com
+# 0.0.0.0 level3.blizzard.com
+# 0.0.0.0 autopatch.juno.ea.com
+# 0.0.0.0 www.callofduty.com
+# 0.0.0.0 umber-lobby.prod.demonware.net
+# 0.0.0.0 eu.patch.battle.net
+# 0.0.0.0 oauth.battle.net
+# 0.0.0.0 eu.battle.net
+# 0.0.0.0 eu.actual.battle.net
+# 0.0.0.0 alert-eu.battle.net
+# 0.0.0.0 eu.version.battle.net
+# 0.0.0.0 content-ui.battle.net
+# 0.0.0.0 nydus.battle.net
+# 0.0.0.0 telemetry-in.battle.net
+# 0.0.0.0 prod.depot.battle.net
