@@ -32,3 +32,6 @@
 # 0.0.0.0 gateway.discord.gg
 # 0.0.0.0 cdn.discordapp.com
 # 0.0.0.0 media.discordapp.net
+## Nvdiida updates for Shield TV ##
+0.0.0.0 ota.nvidia.com
+0.0.0.0 ota-downloads.nvidia.com
