@@ -35,5 +35,3 @@
 ## Nvdiida updates for Shield TV ##
 0.0.0.0 ota.nvidia.com
 0.0.0.0 ota-downloads.nvidia.com
-## Example.com test with tags ##
-||example.org^$ctag=device_pc
