@@ -35,3 +35,14 @@
 ## Nvdiida updates for Shield TV ##
 0.0.0.0 ota.nvidia.com
 0.0.0.0 ota-downloads.nvidia.com
+## TP-Link ##
+0.0.0.0 n-deventry.tplinkcloud.com
+0.0.0.0 n-devs.tplinkcloud.com
+0.0.0.0 use1-api.tplinkra.com
+0.0.0.0 euw1-api.tplinkra.com
+## Miscellaneous AdGuard filters ##
+||backstage.com^$important
+||www.picpick.org^$important
+||edigitalsurvey.com^$important
+||yourprizeishere.life^$important
+||redirect-servers35.life^$important
