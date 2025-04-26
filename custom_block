@@ -49,3 +49,7 @@
 ||edigitalsurvey.com^$important
 ||yourprizeishere.life^$important
 ||redirect-servers35.life^$important
+## DoH Servers ##
+## Source: https://dnsspeedtest.online/ ##
+0.0.0.0 zero.dns0.eu
+0.0.0.0 ada.openbld.net
